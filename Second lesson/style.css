@@ -1,0 +1,19 @@
+body{
+	width: 842px;
+	margin: 0 auto;
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,70,121,1) 35%, rgba(0,212,255,1) 100%);
+
+
+}
+
+.input-text{
+	margin: 10px;
+}
+
+#root{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+
+}
